@@ -1,5 +1,7 @@
 package com.companyname.bank;
 
+// This is a project done by Kwame and Alkeya
+
 /**
  * Hello world!
  *
