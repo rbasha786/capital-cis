@@ -1,6 +1,6 @@
 package com.companyname.bank;
 
-// This is a project done by Kwame and Alkeya
+// This is a project done by Kwame and Alkeya on 30 Aug
 
 /**
  * Hello world!
